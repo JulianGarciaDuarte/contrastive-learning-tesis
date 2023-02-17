@@ -1,0 +1,2 @@
+/data/Datasets/stroke/ISBI_FOSCAL/ACV-002/2021-11-29-NCCT/CT_registered/ANTs_WOut_BrainExtraction/ADC.nii.gz
+/data/Datasets/stroke/ISBI_FOSCAL/ACV-002/2021-11-29-NCCT/CT_registered/ANTs_WOut_BrainExtraction/upsample/ADC.nii.gz
